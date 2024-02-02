@@ -29,7 +29,6 @@ class MainActivity : AppCompatActivity() {
         //setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
 
-        // BottomNavigationView'nin home öğesini varsayılan olarak seçin
-    // ScanFragment'in ID'sini kullanın
+
     }
 }
