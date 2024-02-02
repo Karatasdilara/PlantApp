@@ -1,1 +1,1 @@
-[DİLARAKARATAŞSONRAPOR.pdf](https://github.com/Karatasdilara/PlantApp/files/14145115/DILARAKARATASSONRAPOR.pdf)
+[ÖDEV RAPORU.pdf](https://github.com/Karatasdilara/PlantApp/files/14145115/DILARAKARATASSONRAPOR.pdf)
