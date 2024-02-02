@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
             // ScanActivity'yi varsayılan olarak ekleyin
             setOf(R.id.scanActivity, R.id.navigation_dashboard, R.id.navigation_notifications)
         )*/
-        //setupActionBarWithNavController(navController, appBarConfiguration)
+
         navView.setupWithNavController(navController)
 
 
