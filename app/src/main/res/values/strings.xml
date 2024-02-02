@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">PlantApp</string>
+    <string name="title_home">Scan</string>
+    <string name="title_dashboard">Plants</string>
+    <string name="title_notifications">Profile</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="kvkk_text">\nDear User,\n\n
+
+Privacy Policy
+
+This application, Plant App, places great importance on the privacy of your personal data and fully complies with the provisions of the Personal Data Protection Law (KVKK).\n\n
+
+1-Collection and Processing of Personal Data:\n
+
+Our Plant App may collect and process some of your personal data necessary to manage your travels and location sharing. The collected personal data will only be used for specific purposes.\n\n
+2-Protection of Personal Data:\n
+
+Plant App takes necessary technical and organizational measures to securely store and protect your personal data. Data security is ensured through encryption technologies and other security measures.\n\n
+
+3-Sharing of Personal Data:\n
+Your personal data may be shared with competent authorities in accordance with legal regulations in certain situations.
+Your data will be requested with explicit consent before being shared with third parties.\n
+4-Access and Control of Personal Data:\n
+
+Your personal data may be shared with competent authorities in accordance with legal regulations in certain situations. Your data will be requested with explicit consent before being shared with third parties.\n\n
+5-Cookies and Tracking Technologies:\n
+
+Plant App may use cookies and similar tracking technologies. For more information, you can review our cookie policy.\n
+For more details about the KVKK, please visit the "KVKK" section within the Plant App.\n\n
+        If you have any questions or concerns, you can contact us via email at karatassdilara@gmail.com.
+\n\n
+Sincerely,\n\n
+Plant App Team\n
+</string>
+
+    <string name="about_us_text">This application allows you to identify plants.</string>
+    <string name="contact_us_text">You can contact us via e-mail or phone number.\n\n
+    Phone Number: 0532 123 ** **\n
+    E-mail: karatassdilara@gmail.com
+    </string>
+
+
+</resources>
