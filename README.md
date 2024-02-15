@@ -1,4 +1,5 @@
 [ÖDEV RAPORU.pdf](https://github.com/Karatasdilara/PlantApp/files/14145115/DILARAKARATASSONRAPOR.pdf)
+
 #Proje Hakkında:
 
 Proje, bitkileri tanıma ve bu bitkilerle ilgili detaylı bilgi sunma amacı taşıyan bir mobil uygulamadır. Uygulama, kullanıcılara kamera veya galeriden yüklenmiş fotoğraflar aracılığıyla bitki tanıma imkanı sunar. Kullanıcılar, tanınan bitkileri kendi özel listelerine ekleyebilir ve bitkileri listeden silebilir. Ayrıca, bitkilerle ilgili bildirim alabilirler. Proje, Android Studio'da Kotlin programlama dili kullanılarak geliştirilmektedir ve TensorFlow derin öğrenme kütüphanesi, bitki tanıma işlevselliğini sağlamak için entegre edilmektedir.
@@ -6,23 +7,34 @@ Proje, bitkileri tanıma ve bu bitkilerle ilgili detaylı bilgi sunma amacı ta�
 #Yöntem ve Teknikler:
 
 Firebase Platformu:
+
 Firebase Authentication: Kullanıcı kimlik doğrulama işlemleri için kullanılmıştır.
+
 Cloud Firestore: Kullanıcı bilgileri, bitki listeleri ve bitki özellikleri gibi veriler için NoSQL veritabanı olarak kullanılmıştır.
+
 Firebase Cloud Messaging (FCM): Kullanıcılara sulama hatırlatmaları göndermek için kullanılmıştır.
 
 Android Jetpack Kütüphaneleri:
+
 ViewModel ve LiveData: Veri bağlama işlemleri ve yaşam döngüsü bilgilerinin yönetimi için kullanılmıştır.
+
 Navigation Component: Fragment yönetimi ve gezinme işlemleri için kullanılmıştır.
+
 RecyclerView: Bitki listeleri ve diğer listelerin oluşturulması için kullanılmıştır.
 
 TensorFlow Lite:
+
 Bitki tanıma özelliği için kullanılmıştır.
 
 #Proje Mimarisi:
+
 Bu uygulamada MVVM mimarisini kullanmak uygun olacaktır.
 MVVM (Model-View-ViewModel), yazılım geliştirme sürecinde kullanılan bir mimari desen veya yapıdır. Temel olarak üç ana bileşen içerir:
+
 1.Model (Model): Verilerin ve iş mantığının bulunduğu kısımdır. Veri işleme, depolama ve iş mantığı bu katmanda yer alır.
+
 2.View (Görünüm): Kullanıcı arayüzünü temsil eder. Kullanıcıya gösterilen grafik arayüz, düğmeler, formlar gibi bileşenler bu katmanda bulunur.
+
 3.ViewModel: Model ve View arasındaki iletişimi sağlayan ara katmandır. Kullanıcı arayüzündeki görsel elemanlarla etkileşim kurar, gerekli verileri Model'den alır, bunları işler ve View'a sunar.
 
 #Proje Görselleri
